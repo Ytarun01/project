@@ -22,7 +22,7 @@ const TopCard = () => {
 
       <div className="flex items-center mb-6">
         <Image
-          src="/images/1.png"
+          src="images/1.png"
           alt="Dr. K. Gautam"
           className="w-24 h-24 rounded-lg"
           width={96}
