@@ -52,7 +52,7 @@ const TopCard = () => {
       </div>
 
       <div>
-        <h3 className="text-lg font-semibold mb-2 mt-0">Overview</h3>
+        <h3 className="text-lg text-gray-600  font-semibold mb-2 mt-0">Overview</h3>
         <p className="text-gray-700">
           Dr. K. Gautam is a distinguished medical physics professor at IIT
           Hyderabad. With expertise in advanced imaging techniques and radiation
